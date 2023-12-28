@@ -6,7 +6,7 @@
 <a href="https://www.buymeacoffee.com/Garlic" target="_blank"><img src="https://img.shields.io/badge/COFFEE-ffdd00?style=flat&logo=buymeacoffee&logoColor=white"/></a><br>
 ![DevGarlic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarlic&show_icons=true&theme=radical)
 
-초등학교 3학년 때부터 스크래치와 엔트리와 같은 시각적 프로그래밍 환경을 통해 코딩에 흥미를 느끼기 시작했고, 
+초등학교 3학년 때부터 스크래치와 엔트리와 같은 시각적 프로그래밍 환경을 통해 코딩에 흥미를 느끼기 시작했고,\n
 초등학교 5학년때부터 때부터 파이썬과 같은 실제 프로그래밍 언어를 배우며 본격적으로 개발을 시작했습니다. 
 이를 통해 프로그래밍의 기초를 탄탄히 다지고, 스스로 학습하며 능력을 향상시켰습니다.
 
