@@ -8,6 +8,7 @@
 
 # My skills 💻
 ## Python🐍
-## [PodoMarket (Django) 🍇](https://devgarlic.github.io/)
+## [PodoMarket 🍇](https://devgarlic.github.io/)
+당근마켓 클론(Django)
 
 # Honors & Awards 🏆️
