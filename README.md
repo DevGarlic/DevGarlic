@@ -7,9 +7,6 @@
 ![DevGarlic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarlic&show_icons=true&theme=radical)
 
 # My skills 💻
-<p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" width="16" height="16" align="center"> Python
-</p>
+## Python🐍
 
 # Honors & Awards 🏆️
