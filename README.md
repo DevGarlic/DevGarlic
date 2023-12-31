@@ -6,9 +6,4 @@
 <a href="https://www.buymeacoffee.com/Garlic" target="_blank"><img src="https://img.shields.io/badge/COFFEE-ffdd00?style=flat&logo=buymeacoffee&logoColor=white"/></a><br>
 ![DevGarlic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarlic&show_icons=true&theme=radical)
 
-# My skills 💻
-## Python🐍
-## [PodoMarket 🍇](https://devgarlic.github.io/)
-당근마켓 클론(Django)
-
 # Honors & Awards 🏆️
