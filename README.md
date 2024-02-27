@@ -7,3 +7,4 @@
 ![DevGarlic's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGarlic&show_icons=true&theme=radical)
 
 # Honors & Awards 🏆️
+## [2021 D.Lab Fair - 16personalities-discord](https://github.com/DevGarlic/16personalities-discord)
