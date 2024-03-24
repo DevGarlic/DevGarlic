@@ -9,4 +9,4 @@
 
 # Honors & Awards 🏆️
 ## [2021 D.Lab Fair - 16personalities-discord](https://github.com/DevGarlic/16personalities-discord)
-## [제4회 전국학생코딩경진대회 AI부문](https://edu.chosun.com/m/edu_article.html?contid=2022110901332) - 동상
+## [제4회 전국학생코딩경진대회 AI부문 - 동상](https://edu.chosun.com/m/edu_article.html?contid=2022110901332)
